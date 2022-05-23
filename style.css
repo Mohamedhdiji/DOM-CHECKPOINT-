@@ -1,0 +1,45 @@
+.welcome{
+    margin-left: 30%;
+    font-size: 50px;
+    background-color: firebrick;
+    width: 35%;
+    height: 35%;
+
+}
+body{
+    display: block;
+     margin-left: 30px;
+     
+    
+}
+table{
+    border: 3px solid cornflowerblue;
+    background-image: url(/img2.jpg);
+    margin-left: 10%;
+    
+}
+img{
+    width: 250px;
+    height: 250PX;
+}
+.btn-cont{
+    display: flex;
+
+}
+
+.plus:hover{
+    background-color: green;
+    
+}
+.minus:hover{
+    background-color: red;
+    
+}
+button:hover{
+    cursor: pointer;
+}
+.ligne1{
+    width: 300%;
+    height: 300%;
+    /* background-repeat: no-repeat;  */
+}
